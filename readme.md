@@ -59,7 +59,7 @@ The project performs the following tasks:
 
 2. **PageRank with Different Parameters**:
    - Computes PageRank for different damping factors (`β = 0.5, 0.7, 0.9`).
-   - Compares results using Spearman rank correlation and overlap of top 10 nodes.
+   - Compares results using Spearman rank correlation for the entire directed graph, and overlap of top 10 nodes.
 
 3. **Comparison of PageRank and HITS Variations**:
    - Computes and compares different variations.
