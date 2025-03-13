@@ -1,0 +1,9 @@
+Task II:
+
+Spearman rank correlation between alpha = 0.5 and alpha = 0.7: 0.9999764429911157 with p-value: 0.0
+Spearman rank correlation between alpha = 0.5 and alpha = 0.9: 0.9999768539404164 with p-value: 0.0
+Spearman rank correlation between alpha = 0.7 and alpha = 0.9: 0.9999679374716433 with p-value: 0.0
+
+Overlap between alpha = 0.5 and alpha = 0.7: 9
+Overlap between alpha = 0.5 and alpha = 0.9: 9
+Overlap between alpha = 0.7 and alpha = 0.9: 9

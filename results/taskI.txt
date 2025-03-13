@@ -1,0 +1,17 @@
+Task I:
+
+Total nodes: 1490
+
+Liberal nodes: 758
+Conservative nodes: 732
+
+Number of edges: 19025
+
+Min in-degree: 0
+Max in-degree: 337
+
+Min out-degree: 0
+Max out-degree: 256
+
+Avg in-degree: 12.768456375838927
+Avg out-degree: 12.768456375838927

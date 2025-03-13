@@ -1,0 +1,27 @@
+Task V:
+
+Group Pagerank Results:
+
+Group Pagerank Original:
+Liberal group: 0.4898944543264436 Conservative group: 0.5101055456735506
+
+Group Pagerank Variation 1:
+Liberal group: 0.5096605008730029 Conservative group: 0.4903394991269958
+
+Group Pagerank Variation 2:
+Liberal group: 0.5104104540868609 Conservative group: 0.4895895459131429
+
+Group HITS Results:
+
+Group HITS Original:
+Hubs Results:
+Liberal: 0.3641706200939059 Conservative: 0.6358293799060931
+Authorities Results:
+Liberal: 0.3365015602135745 Conservative: 0.663498439786426
+
+Group HITS Variation:
+Hubs Results:
+Liberal: 0.5174814361051603 Conservative: 0.4825185638948395
+Authorities Results:
+Liberal: 0.5111617418141022 Conservative: 0.48883825818589766
+

@@ -1,0 +1,84 @@
+1st Variation of Pagerank vs 2nd Variation of Pagerank
+Spearman: SignificanceResult(statistic=np.float64(0.9937979195176014), pvalue=np.float64(0.0))
+Overlap: 9
+
+1st Variation of Pagerank vs Original Pagerank
+Spearman: SignificanceResult(statistic=np.float64(0.9636276247073243), pvalue=np.float64(0.0))
+Overlap: 8
+
+1st Variation of Pagerank vs Hub Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.9781854234541884), pvalue=np.float64(0.0))
+Overlap: 1
+
+1st Variation of Pagerank vs Authority Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.9636276123184769), pvalue=np.float64(0.0))
+Overlap: 8
+
+1st Variation of Pagerank vs Hub Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9778186598775257), pvalue=np.float64(0.0))
+Overlap: 1
+
+1st Variation of Pagerank vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9863654753590901), pvalue=np.float64(0.0))
+Overlap: 6
+
+2nd Variation of Pagerank vs Original Pagerank
+Spearman: SignificanceResult(statistic=np.float64(0.9695350698343228), pvalue=np.float64(0.0))
+Overlap: 8
+
+2nd Variation of Pagerank vs Hub Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.978184744113813), pvalue=np.float64(0.0))
+Overlap: 1
+
+2nd Variation of Pagerank vs Authority Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.9695350621711333), pvalue=np.float64(0.0))
+Overlap: 8
+
+2nd Variation of Pagerank vs Hub Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9778176161650748), pvalue=np.float64(0.0))
+Overlap: 1
+
+2nd Variation of Pagerank vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9863662973407853), pvalue=np.float64(0.0))
+Overlap: 5
+
+Original Pagerank vs Hub Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.9924849788897612), pvalue=np.float64(0.0))
+Overlap: 1
+
+Original Pagerank vs Authority Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.9999764599567572), pvalue=np.float64(0.0))
+Overlap: 9
+
+Original Pagerank vs Hub Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9924965405036877), pvalue=np.float64(0.0))
+Overlap: 1
+
+Original Pagerank vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9809128644907621), pvalue=np.float64(0.0))
+Overlap: 5
+
+Hub Scores of HITS Variation vs Authority Scores of HITS Variation
+Spearman: SignificanceResult(statistic=np.float64(0.992484773085777), pvalue=np.float64(0.0))
+Overlap: 1
+
+Hub Scores of HITS Variation vs Hub Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9993280318745025), pvalue=np.float64(0.0))
+Overlap: 5
+
+Hub Scores of HITS Variation vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9883283636696134), pvalue=np.float64(0.0))
+Overlap: 0
+
+Authority Scores of HITS Variation vs Hub Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9924963908281189), pvalue=np.float64(0.0))
+Overlap: 1
+
+Authority Scores of HITS Variation vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9809128561697771), pvalue=np.float64(0.0))
+Overlap: 5
+
+Hub Scores of HITS Original vs Authority Scores of HITS Original
+Spearman: SignificanceResult(statistic=np.float64(0.9883283710105488), pvalue=np.float64(0.0))
+Overlap: 1
+
